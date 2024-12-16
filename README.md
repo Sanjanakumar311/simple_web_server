@@ -21,7 +21,7 @@ Serving the HTML pages.
 Testing the webserver.
 
 # PROGRAM:
-```
+```python
 <!DOCTYPE html>
 <html lang="en">
 <head>
